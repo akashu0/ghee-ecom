@@ -75,8 +75,8 @@ export default function NavBar() {
           <div className="hidden md:flex justify-center flex-grow">
             <div className="space-x-8 text-lg">
               <Link to="/" className="font-montserrat text-amber-700 opacity-70 hover:text-amber-800 text-[15px] font-black">Home</Link>
-              <Link to="/products" className="font-montserrat text-amber-700 opacity-70 hover:text-amber-800 text-[15px] font-black">Products</Link>
-              <Link to="/about" className="font-montserrat text-amber-700 opacity-70 hover:text-amber-800 text-[15px] font-black">About</Link>
+              <Link to="/#" className="font-montserrat text-amber-700 opacity-70 hover:text-amber-800 text-[15px] font-black">Products</Link>
+              <Link to="#" className="font-montserrat text-amber-700 opacity-70 hover:text-amber-800 text-[15px] font-black">About</Link>
             </div>
           </div>
 
