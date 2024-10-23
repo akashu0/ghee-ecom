@@ -1,0 +1,10 @@
+:root{
+  --primary:#EFC850;
+  --secondary:#FADA5E;
+  --tertiary:#FDFD96;
+  --quadinary:#F5E050;
+  --primaryfont:'Kanit', sans-serif;
+  --headingfont:'Dancing Script', cursive;
+  --bodyfont:'lobster', cursive;
+  --secondaryfont:'Rajdhani', sans-serif;
+}
